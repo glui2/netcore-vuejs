@@ -1,0 +1,9 @@
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\bin\Debug\netcoreapp1.1\netcore-vuejs.deps.json
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\bin\Debug\netcoreapp1.1\netcore-vuejs.runtimeconfig.json
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\bin\Debug\netcoreapp1.1\netcore-vuejs.runtimeconfig.dev.json
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\bin\Debug\netcoreapp1.1\netcore-vuejs.dll
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\bin\Debug\netcoreapp1.1\netcore-vuejs.pdb
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\obj\Debug\netcoreapp1.1\netcore-vuejs.csprojResolveAssemblyReference.cache
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\obj\Debug\netcoreapp1.1\netcore-vuejs.AssemblyInfo.cs
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\obj\Debug\netcoreapp1.1\netcore-vuejs.dll
+C:\Users\Gavin\documents\visual studio 2017\Projects\netcore-vuejs\netcore-vuejs\obj\Debug\netcoreapp1.1\netcore-vuejs.pdb
